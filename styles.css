@@ -5,3 +5,10 @@
   margin: 0;
   padding: 0;
 }
+
+.container {
+  width: 70%;
+  margin: auto auto;
+  border: .5px solid rgb(139, 114, 114);
+  box-shadow: 4px 5px 4px;
+}
