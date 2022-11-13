@@ -8,7 +8,7 @@
 
 
 body {
-  background-color: rgb(75, 44, 21);
+  background-color: rgb(46, 31, 20);
   font-family: sans-serif;
 
 }
@@ -40,7 +40,7 @@ body {
   line-height: 30px;
 }
 
-.parrafo h2 {
+.parrafo h2, h3{
   color: rgb(37, 39, 146);
   box-shadow: 1px 1px 5px;
   text-align: center;
@@ -53,4 +53,8 @@ footer {
   padding: 10px;
   color: white;
   font-size: 18px;
+}
+
+img {
+  width: 100%;
 }
