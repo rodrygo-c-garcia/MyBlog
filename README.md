@@ -6,7 +6,7 @@ Practica de manejo de Git y Github
 >
 > - Editando README.md
 
-#### En este curso vemos de todo:
+#### En este curso vemos de todo acerca de GIT:
 
 - Todos los comandos de Git
 - El fuljo de trabajo de GitHub
