@@ -8,10 +8,10 @@ Practica de manejo de Git y Github
 
 #### En este curso vemos de todo acerca de GIT:
 
-- Todos los comandos de Git
-- El fuljo de trabajo de GitHub
-- El verdadero amor por las buenas practicas
-- Trucos muy locos del profesor
-- Las personalidades múltiples de Freddy
+- Todos los comandos.
+- El flujo de trabajo de GitHub.
+- El verdadero amor por las buenas practicas.
+- Trucos muy locos del profesor.
+- Las personalidades múltiples de Freddy.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para alplicar algunos temas del curso.
