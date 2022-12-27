@@ -1,4 +1,4 @@
-# MyBlog 😏
+# MyBlog 
 
 Esta es una practica de manejo de Git y Github
 
