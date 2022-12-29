@@ -7,7 +7,7 @@ Esta es una practica de manejo de Git y Github
 
 #### En este curso vemos de todo acerca de GIT:
 
-- Todos los comandos.
+- Todos los comandos GitBash.
 - El flujo de trabajo de GitHub.
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor.
