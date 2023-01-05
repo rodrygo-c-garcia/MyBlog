@@ -6,7 +6,7 @@ Esta es una practica de manejo de Git y Github
 > - Editando README.md
 
 #### En este curso vemos de todo acerca de GIT:
-yrtyer
+
 - Todos los comandos GitBash.
 - El flujo de trabajo de GitHub.
 - El verdadero amor por las buenas practicas.
