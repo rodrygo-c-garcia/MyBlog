@@ -11,6 +11,6 @@ Esta es una practica de manejo de Git y Github
 - El flujo de trabajo de GitHub.
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor.
-- Las personalidades múltiples de FreddyEr.
+- Las personalidades múltiples de FreddyEr jajajaja.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para alplicar algunos temas del curso.
