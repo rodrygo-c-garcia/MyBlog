@@ -1,7 +1,7 @@
 # MyBlog Practica Git - GitBash.
 Esta es una practica de manejo de Git y Github.
 
-> El curso de Git y Github de Platzi es donde aprendi a manejera todo acerca de Git control deversiones y GitHub.
+>  El curso de Git y Github de Platzi es donde aprendi a manejera todo acerca de Git control deversiones y GitHub.
 > - Editando README.md
 
 #### En este curso vemos de todo acerca de GIT:
